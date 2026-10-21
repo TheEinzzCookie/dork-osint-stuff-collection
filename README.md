@@ -49,7 +49,8 @@
 ## Telegram
 
 ## TikTok
-
+- [TikTrack](https://einzzcookie.org/)
+  
 ## Twitch
 
 ## WhatsApp
