@@ -25,12 +25,16 @@
 ## BeReal
 
 ## Bluesky
+- [Bluesky User Stats](https://vqv.app/)
 
 ## Discord
-
+- [Discord History Tracker](https://dht.chylex.com/)
+  
 ## Douyin
 
 ## Facebook
+- [Facebook Profile Id](https://randomtools.io/)
+- [Facebook People Directory](https://www.facebook.com/directory/people/)
 
 ## Instagram
 
