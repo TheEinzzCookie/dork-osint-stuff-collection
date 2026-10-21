@@ -22,3 +22,34 @@
 | YouTube                                   | [Explore](#youtube)                                                                 | 
 
 
+## BeReal
+
+## Bluesky
+
+## Discord
+
+## Douyin
+
+## Facebook
+
+## Instagram
+
+## LinkedIn
+
+## Medium
+
+## Pinterest
+
+## Reddit
+
+## Telegram
+
+## TikTok
+
+## Twitch
+
+## WhatsApp
+
+## X (Twitter)
+
+## Youtube
